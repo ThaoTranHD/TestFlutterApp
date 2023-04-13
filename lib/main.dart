@@ -40,7 +40,6 @@ class _GetStartedPageState extends State<GetStartedPage> {
                 Container(
                   width: 180,
                   height: 180,
-                  // color: Colors.blue,
                   decoration: BoxDecoration(
                     color: Colors.red.shade200,
                     borderRadius: const BorderRadius.all(Radius.circular(90)),
