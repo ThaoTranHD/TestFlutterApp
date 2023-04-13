@@ -3,7 +3,8 @@ A new Flutter project with some widgets:
  - Stack, Column, Row, SizedBox, BackdropFilter ...
 # Evidence 
 <img width="1082" alt="compare 14pro 14 plus" src="https://user-images.githubusercontent.com/116274122/231810518-f6581c5f-8a50-4680-87f8-4cb6f89c0b34.png">
-![UI of screen](https://user-images.githubusercontent.com/116274122/231810540-a03054ce-ce67-4bd6-85c3-f07c71661087.png)
+<img width="320" alt="sreen shot" src="https://user-images.githubusercontent.com/116274122/231820773-14ddead5-ad15-45e2-9f37-c406c5162b21.png">
+
 
 # Quick Look
 <img width="738" alt="Screen Shot 2023-04-13 at 22 35 01" src="https://user-images.githubusercontent.com/116274122/231811333-cbedfe2b-0951-4c81-bc31-079d7b3d1986.png">
