@@ -1,16 +1,11 @@
-# my_app
+# TestFlutterApp
+A new Flutter project with some widgets:
+ - Stack, Column, Row, SizedBox, BackdropFilter ...
+# Evidence 
+<img width="1082" alt="compare 14pro 14 plus" src="https://user-images.githubusercontent.com/116274122/231810518-f6581c5f-8a50-4680-87f8-4cb6f89c0b34.png">
+![UI of screen](https://user-images.githubusercontent.com/116274122/231810540-a03054ce-ce67-4bd6-85c3-f07c71661087.png)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Quick Look
+<img width="738" alt="Screen Shot 2023-04-13 at 22 35 01" src="https://user-images.githubusercontent.com/116274122/231811333-cbedfe2b-0951-4c81-bc31-079d7b3d1986.png">
+<img width="774" alt="Screen Shot 2023-04-13 at 22 35 25" src="https://user-images.githubusercontent.com/116274122/231811347-dac16809-ddd5-40f3-8009-f5ca86f73f5e.png">
+<img width="823" alt="Screen Shot 2023-04-13 at 22 35 36" src="https://user-images.githubusercontent.com/116274122/231811360-e3c15de5-d3fa-47d6-8e49-ea47db5af867.png">
